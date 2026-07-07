@@ -1,2 +1,3 @@
-# AD-User-Export-Audit
-AD User Export &amp; Audit is a PowerShell WPF tool for sysadmins to export AD users (disabled, active, or both) within a chosen date range. It supports OU scoping, name filters, selectable columns, live preview, and CSV/Out-GridView output; streamlining leaver audits and account reviews without hand-editing AD queries.
+# AD User Export & Audit
+
+AD User Export & Audit is a PowerShell WPF GUI application that helps sysadmins export Active Directory users (disabled, active, or both) over a selected date range. It uses `Get-ADUser` with `whenChanged` to build CSV reports, with options for OU scoping, name filters, column selection, and live preview. The tool is designed to make leaver audits and account reviews faster and more consistent, without needing to run raw PowerShell commands.
