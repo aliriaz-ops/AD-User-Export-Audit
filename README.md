@@ -29,3 +29,8 @@ Optionally, compile to EXE using PS2EXE:
 ```powershell
 Invoke-PS2EXE -InputFile .\ADUserExportAudit.ps1 -OutputFile .\ADUserExportAudit.exe -NoConsole
 ```
+
+
+## License
+
+This project is licensed under the MIT License – see the [LICENSE](LICENSE) file for details.
