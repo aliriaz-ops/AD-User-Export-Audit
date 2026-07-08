@@ -102,8 +102,7 @@ Invoke-PS2EXE -InputFile .\ADUserExportAudit.ps1 `
 
 _Main window (example):_
 
-![Main window](images/https://github.com/aliriaz-ops/AD-User-Export-Audit/blob/main/main-window.png)
-
+![Main window](main-window.png)
 
 ---
 
