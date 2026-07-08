@@ -102,7 +102,7 @@ Invoke-PS2EXE -InputFile .\ADUserExportAudit.ps1 `
 
 _Main window (example):_
 
-![Main window](main-window.png)
+![Main window]images/main-window.png
 
 ---
 
