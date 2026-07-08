@@ -38,7 +38,7 @@ AD User Export & Audit is a PowerShell WPF GUI tool for exporting and auditing A
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/YOUR_USERNAME/AD-User-Export-Audit.git
+   git clone https://github.com/aliriaz-ops/AD-User-Export-Audit.git
    cd AD-User-Export-Audit
    ```
 
@@ -102,9 +102,8 @@ Invoke-PS2EXE -InputFile .\ADUserExportAudit.ps1 `
 
 _Main window (example):_
 
-![Main window](images/main-window.png)
+![Main window](images/https://github.com/aliriaz-ops/AD-User-Export-Audit/blob/main/main-window.png)
 
-(Add `images/main-window.png` to your repo and adjust the path/name if needed.)
 
 ---
 
