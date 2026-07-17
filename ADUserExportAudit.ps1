@@ -43,6 +43,8 @@ Add-Type -AssemblyName System.Windows.Forms   # for SaveFileDialog
         Foreground="#E0E0E0"
         FontFamily="Segoe UI"
         FontSize="13">
+</Window>
+'@
 
     <Window.Resources>
         <!-- Base dark control style -->
